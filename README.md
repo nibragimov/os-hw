@@ -9,4 +9,6 @@ xargs - read lines from the standard input and constructs argument lists for a c
 quiz - create a child process that obtains a random math question using web service, we use pipe to write the question on stdin.
 
 To build file:
-```make
+```
+make
+```
