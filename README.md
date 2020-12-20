@@ -8,7 +8,7 @@ Implementations should be run on Unix-like environment.
 * xargs - read lines from the standard input and constructs argument lists for a command to be executed.
 * quiz - create a child process that obtains a random math question using web service, we use pipe to write the question on stdin.
 
-To build file:
+To build file execute in project folder:
 ```
 make
 ```
